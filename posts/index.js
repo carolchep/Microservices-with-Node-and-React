@@ -19,5 +19,5 @@ app.post('/posts', (req, res) => {
 
 })
 app.listen(4000, () => {
-    console.log('listening on 4000')
+    console.log('port 3000')
 })
